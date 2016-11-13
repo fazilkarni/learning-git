@@ -1,1 +1,4 @@
+B
+
+modified first file
 Hello first file
