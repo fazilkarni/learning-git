@@ -1,4 +1,7 @@
 B
+B
+B
+B
 
 modified first file
 Hello first file
